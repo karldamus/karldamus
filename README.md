@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <img alt="PostGreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karldamus&show_icons=true&theme=radical)
+<!-- ![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karldamus&show_icons=true&theme=radical) -->
