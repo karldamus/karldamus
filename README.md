@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 <!-- ![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karldamus&show_icons=true&theme=radical) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karldamus)](https://github.com/karldamus/karldamus) -->
+
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ciehih4smu4bs02vqre4d8e8d) -->
