@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karldamus)](https://github.com/karldamus/karldamus) -->
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ciehih4smu4bs02vqre4d8e8d) -->
-[Oasis Pro CES simulation](https://github.com/karldamus/COMP3004-Project)
+
